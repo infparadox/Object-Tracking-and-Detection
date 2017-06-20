@@ -1,0 +1,26 @@
+
+
+
+ INTIME AND OUTTIMES 
+
+
+intime[43]:datetime.datetime(2017, 6, 20, 12, 40, 23, 405761)
+outtime[43]:datetime.datetime(2017, 6, 20, 12, 40, 25, 164309)
+
+
+intime[38]:datetime.datetime(2017, 6, 20, 12, 40, 6, 30001)
+outtime[38]:datetime.datetime(2017, 6, 20, 12, 40, 7, 818471)
+
+
+intime[29]:datetime.datetime(2017, 6, 20, 12, 39, 31, 141789)
+outtime[29]:datetime.datetime(2017, 6, 20, 12, 39, 32, 927730)
+
+
+intime[14]:datetime.datetime(2017, 6, 20, 12, 38, 47, 697738)
+outtime[14]:datetime.datetime(2017, 6, 20, 12, 38, 49, 889033)
+
+
+intime[47]:datetime.datetime(2017, 6, 20, 12, 40, 29, 457800)
+outtime[47]:datetime.datetime(2017, 6, 20, 12, 40, 31, 60582)
+
+
