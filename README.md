@@ -1,0 +1,2 @@
+# Object-Tracking-and-Detection
+The aim is to track and count objects(vehicles) in a real time scenario. I used various algorithms such as MOG Background subtraction , Haar cascading , Kalman Filtering , Blob Analysis. for tracking purpose. I had to keep track of information of vehicles entering and assign them proper ID's and store/write various informations(time stamp , area ,aspect ratio) onto a file.
