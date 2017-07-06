@@ -1,9 +1,9 @@
-# Object-Tracking-and-Detection
+#####  Object-Tracking-and-Detection ######
 
-The aim is to track and count objects(vehicles) in a real time scenario. I used various tracking algorithms such as MOG Background subtraction , Haar cascading , Kalman Filtering , Blob Analysis. for tracking purpose. I had to keep track of information of vehicles entering and assign them proper ID's and store/write various informations(time stamp , area ,aspect ratio) onto a file.
+I pursued my summer intern related to image processing. The aim was to track and count objects(vehicles) in a real time scenario. I used various algorithms such as MOG Background subtraction , Haar cascading , Kalman Filtering , Blob Analysis for tracking purpose. Main objective was to keep track of information of vehicles entering and assign them proper ID's and store/write various informations such as (time stamps, area ,aspect ratio) into a file.
 
 
-To run the code -(code.py)
+######## To run the code -(code.py) #######
 
 1) Enter Path of video file at the start of program
 
@@ -16,9 +16,9 @@ To run the code -(code.py)
   
 
 
-Opencv(3.1) Installation and Various dependencies :
+####### Opencv(3.1) Installation and its Various dependencies : ########
 
-Follow these steps to install opencv(3.1) with python 2.7.
+Follow these steps to install opencv(3.1) with python 2.7 and the required dependencies.
 
 1) $ sudo apt-get install build-essential cmake pkg-config
 
